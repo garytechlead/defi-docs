@@ -8,7 +8,7 @@
 * [✅ Setting Up The Node](getting-started-1/setting-up-the-node.md)
 * [🎨 Connecting Polkadot JS](getting-started-1/connecting-polkadot-js.md)
 * [🏗️ Building Smart Contracts](getting-started-1/building-smart-contracts.md)
-* [🚀 Deploy Smart Contract](getting-started-1/poc-workflow.md)
+* [🚀 Deploying the Smart Contract](getting-started-1/poc-workflow.md)
 
 ---
 

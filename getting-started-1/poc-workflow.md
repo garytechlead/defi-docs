@@ -1,4 +1,4 @@
-# 🚀 Deploy Smart Contract
+# 🚀 Deploying the Smart Contract
 
 ### Follow the steps below to test our proof of concept that's deployed [here](http://sandbox.vera.financial/#/contracts)
 
