@@ -1,4 +1,4 @@
-# 📄 Definitions
+# Definitions
 
 ## Lending
 

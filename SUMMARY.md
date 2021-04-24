@@ -1,6 +1,6 @@
 # Table of contents
 
-* [📄 Definitions](README.md)
+* [Definitions](README.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
